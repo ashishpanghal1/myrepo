@@ -1,2 +1,1 @@
-print"whats up buddy!!  V9")
-print"abhi)
+print("whats up buddy!!  V9")
